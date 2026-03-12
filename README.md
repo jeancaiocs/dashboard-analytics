@@ -224,9 +224,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- Portfolio: [seu-portfolio.com](https://seu-portfolio.com)
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- Portfolio: [seu-portfolio.com]([https://seu-portfolio.com](https://jeancaiocs.github.io/portfolio-frontend/))
+- LinkedIn: [linkedin.com/in/seu-perfil]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jeancaio/))
+- GitHub: [@seu-usuario]([https://github.com/seu-usuario](https://github.com/jeancaiocs))
 
 ## 🙏 Agradecimentos
 
